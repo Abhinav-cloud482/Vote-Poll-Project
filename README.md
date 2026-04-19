@@ -71,4 +71,9 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Developed as a demonstration project for understanding blockchain fundamentals and GUI integration in Python.
+Abhinav Dixit
+
+Python Developer | Data & ML Enthusiast
+
+- Feel free to fork, star, or contribute to this project!
+
